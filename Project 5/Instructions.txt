@@ -1,0 +1,15 @@
+To Play:
+
+1. Open and run the GUI file (othello_gui.py)
+
+2. Click START GAME 
+
+3. Enter game parameters in dialog window
+
+4. Click on board for the initial board layout
+   (Pieces are placed in order of initial player color.
+    To switch to different color, press the button.)
+
+5. Hit READY once the initial board is set
+
+6. Play Othello!
